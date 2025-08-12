@@ -50,7 +50,7 @@
         "value": "GB"
       },
       "access": {
-        "landingPage": "https://portal.cbrain.mcgill.ca/userfiles/5627957",
+        "landingPage": "https://eegnet.loris.ca",
         "authorizations": [
           {
             "value": "registered"
@@ -80,6 +80,12 @@
   "keywords": [
     {
       "value": "Resting state"
+    },
+    {
+      "value": "eeg"
+    },
+    {
+      "value": "EEGNet"
     }
   ],
   "extraProperties": [
@@ -216,7 +222,7 @@
       "category": "origin_consortium",
       "values": [
         {
-          "value": "EEGNet"
+          "value": "EEGManyLabs"
         }
       ]
     },

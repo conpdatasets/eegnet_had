@@ -109,7 +109,7 @@
       "category": "CONP_status",
       "values": [
         {
-          "value": "External"
+          "value": "external"
         }
       ]
     },
